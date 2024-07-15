@@ -13,7 +13,7 @@ The algorithms and examples in this repository are based on the research present
 
 ## Installation
 
-To use the algorithms in this repository, you'll need to have Python and Qiskit installed. You can install Qiskit using pip:
+To use the algorithms in this repository, you'll need to reference the aforementioned paper and have Python and Qiskit installed. You can install Qiskit using pip:
 
 ```bash
 pip install qiskit

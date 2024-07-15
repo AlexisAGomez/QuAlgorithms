@@ -4,6 +4,7 @@
 # Alexis A. Gomez, Dr. Artyom Grigoryan,
 # UTSA ECE, March 11, 2023
 #
+# Reference http://dx.doi.org/10.1117/12.3013940
 
 # Necessary Imports
 import numpy as np

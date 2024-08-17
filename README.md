@@ -10,8 +10,7 @@ The algorithms and examples in this repository are based on the research present
 - **Authors**: Dr. Artyom Grigoryan, Alexis A. Gomez
 - **Published**: June 7, 2024
 - **Reference**: [http://dx.doi.org/10.1117/12.3013940](http://dx.doi.org/10.1117/12.3013940)
- 
-
+&nbsp
 - **Title**: Quantum Image Processing: A Mathematical Toolbox
 - **Authors**: Artyom M. Grigoryan and Sos Agaian
 

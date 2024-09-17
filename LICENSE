@@ -94,6 +94,11 @@
       (a) You must give any other recipients of the Work or
           Derivative Works a copy of this License; and
 
+      (b) If using any codes in this repository, reference the papers
+          shown in the header of the code. If there is no reference to
+          any papers in the header of the code, reference the papers
+          in the README of this repository; and
+
       (b) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
 

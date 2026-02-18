@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qu_algorithms"
+version = "0.1.0"
+description = "Quantum algorithms library (with qsiht and more)"
+authors = [
+    { name = "Alexis A. Gomez", email = "alexis.gomez@ieee.org" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools]
+packages = ["qu_algorithms"]
